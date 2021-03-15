@@ -1,0 +1,33 @@
+
+
+.banner{
+    width: 100%;
+    display: "block"
+}
+.banner > a > .image_banner{
+    width: 100%;
+    display: "block";
+    height: 450px;
+    border: 10px solid green;
+    
+}
+
+/* p {
+    color: rgb(151, 64, 64);
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+#BarSummary {
+    color: green;
+    font-size: 18px;
+    margin-left: 350px;
+    font-weight: "strong";
+}
+
+#PieSummary {
+    margin-left: 450px;
+    color: red;
+    font-weight: "strong";
+    font-size: 18px
+} */
